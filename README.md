@@ -167,7 +167,7 @@ it and raises and lowers in response to its position in the virtual
 environment demo. In the following sections below, we describe
 the hardware and software components of the controller.
 
-
+![](images/fig1.png) \
 Figure 1: Wearable Texture Feedback Controller
 
 ## 3.2 Hardware Design and Implementation
@@ -188,8 +188,8 @@ components, Arduino was fixed to the middle of the controller for
 motor control and code input. The Arduino part of the controller
 connects to a PC through a USB link and is powered by a battery.
 
-Figure 2: Final Design of Wearable Texture Feedback Con-
-troller
+![](images/fig2.png) \
+Figure 2: Final Design of Wearable Texture Feedback Controller
 
 ## 3.3 Software Design and Implementation
 
@@ -201,7 +201,7 @@ was done to integrate the controller with Unity for the ‘shopping
 ‘experience’ demo to work properly. The Unity, Arduino and VR
 integration is explored in further detail below.
 
-
+![](images/fig3.png) \
 Figure 3: VR ’Shopping Experience’ Demo with Hands Tracking
 
 ## 3.4 Unity, Arduino and VR Integration
